@@ -21,20 +21,14 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/rexcgods/Borwser.git
-```bash
 cd Borwser
-```bash
 npm i axios
-```bash
 npm i cheerio
-```bash
 npm i gradient-string
-```bash
 npm i node-telegram-bot
-
+```
 ## Next
 Ubah "YOUR_TOKEN_BOT" di index.js dengan token bot telegram yang telah anda buat di t.me/botfather Jika sudah langsung saja kita run
-
 ```bash
 node index.js
 
